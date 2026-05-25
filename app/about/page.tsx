@@ -108,10 +108,7 @@ const personJsonLd = {
 
 export default function AboutPage() {
   return (
-    <div
-      style={{ fontFamily: "Poppins, sans-serif" }}
-      className="min-h-screen bg-white text-black dark:bg-neutral-950 dark:text-neutral-100"
-    >
+    <div className="min-h-screen bg-white text-black dark:bg-neutral-950 dark:text-neutral-100">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(personJsonLd) }}
@@ -196,15 +193,6 @@ export default function AboutPage() {
                 className="w-full sm:w-auto inline-flex justify-center items-center gap-2 text-sm border px-4 py-2 rounded-lg hover:bg-neutral-50 dark:hover:bg-neutral-900 transition"
               >
                 <Github className="w-4 h-4" /> GitHub{" "}
-                <ArrowUpRight className="w-4 h-4" />
-              </a>
-              <a
-                href="https://medium.com/@teshanj"
-                target="_blank"
-                rel="noreferrer"
-                className="w-full sm:w-auto inline-flex justify-center items-center gap-2 text-sm border px-4 py-2 rounded-lg hover:bg-neutral-50 dark:hover:bg-neutral-900 transition"
-              >
-                <BookOpen className="w-4 h-4" /> Medium{" "}
                 <ArrowUpRight className="w-4 h-4" />
               </a>
               <Link

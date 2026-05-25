@@ -34,10 +34,7 @@ export default function BlogsPage() {
   const blogs = getAllBlogs();
 
   return (
-    <div
-      style={{ fontFamily: "Poppins, sans-serif" }}
-      className="min-h-screen bg-white text-black dark:bg-neutral-950 dark:text-neutral-100 flex flex-col"
-    >
+    <div className="min-h-screen bg-white text-black dark:bg-neutral-950 dark:text-neutral-100 flex flex-col">
       {/* Header */}
       <header className="sticky top-0 z-40 backdrop-blur supports-[backdrop-filter]:bg-white/60 dark:supports-[backdrop-filter]:bg-neutral-950/60 border-b border-neutral-200 dark:border-neutral-800">
         <div className="w-full max-w-4xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">

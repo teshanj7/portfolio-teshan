@@ -80,7 +80,6 @@ export default async function BlogPostPage({ params }: Props) {
 
   return (
     <div
-      style={{ fontFamily: "Poppins, sans-serif" }}
       className="min-h-screen bg-white text-black dark:bg-neutral-950 dark:text-neutral-100 flex flex-col"
     >
       <script
