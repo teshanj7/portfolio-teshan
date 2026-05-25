@@ -72,7 +72,7 @@ I am not saying every MVP will end up in success. It can be a failure, a disaste
 
 Before diving into the framework, it helps to remember that some of the biggest products today started as the most minimal versions of themselves.
 
-![Example Successful MVPs](/blogs/images/mvp-101-the-art-of-building-a-minimum-viable-product/Blog2-Successful_MVPs.png "Successful MVPs: AirBnB & Amazon") 
+![Example Successful MVPs](/blogs/images/mvp-101-the-art-of-building-a-minimum-viable-product/Blog2-MVPs.png "Successful MVPs: AirBnB & Amazon") 
 
 **Airbnb** simply started as a website where two random guys rented out air mattresses in their apartment to host tenants. No fancy booking system, no host verification, no fancy mobile app. Just a basic site and a **real problem**, which was finding affordable accommodation during peak events.
 
