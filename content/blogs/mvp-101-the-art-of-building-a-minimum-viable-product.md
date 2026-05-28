@@ -78,13 +78,13 @@ Before diving into the framework, it helps to remember that some of the biggest 
 
 **Amazon** also launched as an simple online bookstore. Not a marketplace. Not AWS. Not Amazon Prime. Big JB (lol 😂) picked the narrowest possible category and **validated** that people would buy things online, and expanded from there.
 
-Neither of them built everything first. They built the minimum, learned what worked, and grew from real user behaviour.
+Neither of them built everything first. They built the minimum, learnt what really worked, and grew from real user behaviour.
 
 ---
 
 ### My own MVP 'Framework'
 
-From what I have learnt so far building MVPs, I came up with the following framework emerges. This IS NOT the only way and this can be very general, all I did was list down the steps that I have taken while building MVPs. Here's how to approach it:
+From what I have learnt so far building MVPs, I came up with the following framework. This IS NOT the only way and this can be very general, all I did was list down the steps that I have taken while building MVPs. Here's how to approach it:
 
 #### 1. Identify the Problem
 
@@ -181,5 +181,5 @@ Even with a clear framework, teams get it wrong. Here's what to watch for:
 
 The teams that ship fast and improve consistently aren't cutting corners. They're making better decisions, earlier and efficiently. That's what **MVP thinking** gives you.
 
-If you're curious about MVPs and you are in the process building one and if you're having any questions feel free to reach out. I will be happy to share my experiences and offer help anyway I can.
+If you're curious about MVPs and you are in the process of building one and if you're having any questions, feel free to reach out. I will be happy to share my experiences and offer help anyway I can.
 
